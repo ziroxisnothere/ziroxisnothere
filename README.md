@@ -1,8 +1,5 @@
 # 💫 About Me:
-- 🔭 I’m currently working on [DuckyGame](https://duckygame.ir/)<br>
 - 👨‍💻 All of my projects are available at [https://github.com/ziroxisnothere/](https://github.com/ziroxisnothere/)<br>
-- 📫 How to reach me **zirox@atomicmail.io**<br>
-- ⚡ Fun fact **Im From iran**
 
 
 # 💻 Tech Stack:
